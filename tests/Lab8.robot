@@ -1,6 +1,7 @@
-
+*** Settings ***
 Library    OperatingSystem
 
-Lab8 Robot Framework Test
+*** Test Cases ***
+Lab8 Test
     Log    Hello from Robot Framework
-    Should Be Equal    1    1
+    Log    Software Engineering Lab 8
